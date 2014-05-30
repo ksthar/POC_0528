@@ -1,0 +1,166 @@
+POC_0528-rsi.o: rsi.c \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/stdlib.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/features.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/predefs.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/sys/cdefs.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/wordsize.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/gnu/stubs.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/i686-linux/usr/bin/armv5te-bluegiga-linux-gnueabi/../../lib/armv5te-bluegiga-linux-gnueabi/gcc/arm-bluegiga-linux-gnueabi/4.6.4/include/stddef.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/waitflags.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/waitstatus.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/endian.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/endian.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/byteswap.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/sys/types.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/types.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/typesizes.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/time.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/sys/select.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/select.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/sigset.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/time.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/sys/sysmacros.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/pthreadtypes.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/alloca.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/stdio.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/libio.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/_G_config.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/wchar.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/i686-linux/usr/bin/armv5te-bluegiga-linux-gnueabi/../../lib/armv5te-bluegiga-linux-gnueabi/gcc/arm-bluegiga-linux-gnueabi/4.6.4/include/stdarg.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/stdio_lim.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/sys_errlist.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/string.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/xlocale.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/unistd.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/posix_opt.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/environments.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/confname.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/getopt.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/termios.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/termios.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/sys/ttydefaults.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/errno.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/errno.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/linux/errno.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/asm/errno.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/asm-generic/errno.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/asm-generic/errno-base.h \
+ commonTypes.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/i686-linux/usr/bin/armv5te-bluegiga-linux-gnueabi/../../lib/armv5te-bluegiga-linux-gnueabi/gcc/arm-bluegiga-linux-gnueabi/4.6.4/include/stdint.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/stdint.h \
+ /home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/wchar.h \
+ rsi.h rsi_commands.h serial.h crc.h misc.h led.h gpio.h
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/stdlib.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/features.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/predefs.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/sys/cdefs.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/wordsize.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/gnu/stubs.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/i686-linux/usr/bin/armv5te-bluegiga-linux-gnueabi/../../lib/armv5te-bluegiga-linux-gnueabi/gcc/arm-bluegiga-linux-gnueabi/4.6.4/include/stddef.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/waitflags.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/waitstatus.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/endian.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/endian.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/byteswap.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/sys/types.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/types.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/typesizes.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/time.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/sys/select.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/select.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/sigset.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/time.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/sys/sysmacros.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/pthreadtypes.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/alloca.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/stdio.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/libio.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/_G_config.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/wchar.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/i686-linux/usr/bin/armv5te-bluegiga-linux-gnueabi/../../lib/armv5te-bluegiga-linux-gnueabi/gcc/arm-bluegiga-linux-gnueabi/4.6.4/include/stdarg.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/stdio_lim.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/sys_errlist.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/string.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/xlocale.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/unistd.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/posix_opt.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/environments.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/confname.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/getopt.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/termios.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/termios.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/sys/ttydefaults.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/errno.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/errno.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/linux/errno.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/asm/errno.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/asm-generic/errno.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/asm-generic/errno-base.h:
+
+commonTypes.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/i686-linux/usr/bin/armv5te-bluegiga-linux-gnueabi/../../lib/armv5te-bluegiga-linux-gnueabi/gcc/arm-bluegiga-linux-gnueabi/4.6.4/include/stdint.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/stdint.h:
+
+/home/har/KST/Allegion/bluegiga-sdk/build/tmp/sysroots/apx4devkit/usr/include/bits/wchar.h:
+
+rsi.h:
+
+rsi_commands.h:
+
+serial.h:
+
+crc.h:
+
+misc.h:
+
+led.h:
+
+gpio.h:
